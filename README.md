@@ -113,7 +113,7 @@ Power BI file: [`powerbi/ravenstack_saas_churn_dashboard.pbix`](powerbi/ravensta
 
 ### Churn & Retention
 
-![Churn & Retemtion](assets/churn_retention.png)
+![Churn & Retention](assets/churn_retention.png)
 
 
 ### Product Usage & Support Health
