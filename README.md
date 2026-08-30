@@ -145,7 +145,6 @@ A ready-to-query SQLite database is included at `sql/ravenstack.db`.
 ```text
 ravenstack-saas-churn-analytics/
 ├── README.md
-├── requirements.txt
 ├── data/
 │   ├── ravenstack_accounts.csv
 │   ├── ravenstack_churn_events.csv
@@ -160,7 +159,9 @@ ravenstack-saas-churn-analytics/
 ├── powerbi/
 │   └── ravenstack_saas_churn_dashboard.pbix
 └── assets/
-    └── README.md
+  ├── executive_overview.png
+  ├── churn_retention.png
+  └── product_usage_support_health.png
 ```
 
 ## How to Run
